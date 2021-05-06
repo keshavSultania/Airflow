@@ -1,0 +1,21 @@
+[2021-05-06 12:07:13,484] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: tutorial_taskflow_api_etl_test_2.create_all_station_list 2021-05-06T06:36:28.540024+00:00 [queued]>
+[2021-05-06 12:07:13,490] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: tutorial_taskflow_api_etl_test_2.create_all_station_list 2021-05-06T06:36:28.540024+00:00 [queued]>
+[2021-05-06 12:07:13,490] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-06 12:07:13,490] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2021-05-06 12:07:13,490] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-06 12:07:13,496] {taskinstance.py:1089} INFO - Executing <Task(_PythonDecoratedOperator): create_all_station_list> on 2021-05-06T06:36:28.540024+00:00
+[2021-05-06 12:07:13,498] {standard_task_runner.py:52} INFO - Started process 1014 to run task
+[2021-05-06 12:07:13,504] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial_taskflow_api_etl_test_2', 'create_all_station_list', '2021-05-06T06:36:28.540024+00:00', '--job-id', '122', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/demo2.py', '--cfg-path', '/var/folders/jz/p2j8d5xx3lq5qbv4lwz8kg100000gn/T/tmpj6v0x5oy', '--error-file', '/var/folders/jz/p2j8d5xx3lq5qbv4lwz8kg100000gn/T/tmpas5l2w65']
+[2021-05-06 12:07:13,505] {standard_task_runner.py:77} INFO - Job 122: Subtask create_all_station_list
+[2021-05-06 12:07:18,530] {logging_mixin.py:104} INFO - Running <TaskInstance: tutorial_taskflow_api_etl_test_2.create_all_station_list 2021-05-06T06:36:28.540024+00:00 [running]> on host Keshavs-MacBook-Pro.local
+[2021-05-06 12:07:23,550] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tutorial_taskflow_api_etl_test_2
+AIRFLOW_CTX_TASK_ID=create_all_station_list
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-06T06:36:28.540024+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-05-06T06:36:28.540024+00:00
+[2021-05-06 12:07:23,578] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=tutorial_taskflow_api_etl_test_2, task_id=create_all_station_list, execution_date=20210506T063628, start_date=20210506T063713, end_date=20210506T063723
+[2021-05-06 12:07:23,587] {taskinstance.py:1246} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-05-06 12:07:23,614] {local_task_job.py:146} INFO - Task exited with return code 0

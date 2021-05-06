@@ -1,0 +1,38 @@
+[
+  {
+    "provider": "kiwi",
+    "priority": 1,
+    "isActive": false,
+    "stationSource": "",
+    "destinationSource": "",
+    "includeByStation": [],
+    "excludeByStation": [],
+    "includeByGeo": [],
+    "excludeByGeo": [],
+    "onFailure": true
+  },
+    {
+      "provider": "AAB",
+      "isActive": true,
+      "priority": 2,
+      "stationSource": "",
+      "destinationSource": "",
+      "includeByStation": [], 
+      "excludeByStation": [],
+      "includeByGeo": [],
+      "excludeByGeo": [],
+      "onFailure": false
+    },
+    {
+      "provider": "travelport",
+      "priority": 3,
+      "isActive": true,
+      "stationSource": "",
+      "destinationSource": "",
+      "includeByStation": [],
+      "excludeByStation": [],
+      "includeByGeo": [],
+      "excludeByGeo": [],
+      "onFailure": true
+    }
+  ]

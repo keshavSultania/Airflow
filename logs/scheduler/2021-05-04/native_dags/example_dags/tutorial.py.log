@@ -1,0 +1,7 @@
+[2021-05-04 06:35:46,087] {scheduler_job.py:182} INFO - Started process (PID=62098) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-05-04 06:35:46,087] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-05-04 06:35:46,088] {logging_mixin.py:104} INFO - [2021-05-04 06:35:46,088] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-05-04 06:35:46,093] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-05-04 06:35:46,122] {logging_mixin.py:104} INFO - [2021-05-04 06:35:46,122] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-04 06:35:46,128] {logging_mixin.py:104} INFO - [2021-05-04 06:35:46,128] {dag.py:2280} INFO - Setting next_dagrun for tutorial to 2021-05-02 00:00:00+00:00
+[2021-05-04 06:35:46,135] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.049 seconds

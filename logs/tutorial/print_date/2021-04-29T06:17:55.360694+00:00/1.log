@@ -1,0 +1,28 @@
+[2021-04-29 11:48:59,186] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: tutorial.print_date 2021-04-29T06:17:55.360694+00:00 [queued]>
+[2021-04-29 11:48:59,191] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: tutorial.print_date 2021-04-29T06:17:55.360694+00:00 [queued]>
+[2021-04-29 11:48:59,191] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-04-29 11:48:59,191] {taskinstance.py:1069} INFO - Starting attempt 1 of 2
+[2021-04-29 11:48:59,191] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-04-29 11:48:59,197] {taskinstance.py:1089} INFO - Executing <Task(BashOperator): print_date> on 2021-04-29T06:17:55.360694+00:00
+[2021-04-29 11:48:59,198] {standard_task_runner.py:52} INFO - Started process 98706 to run task
+[2021-04-29 11:48:59,204] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial', 'print_date', '2021-04-29T06:17:55.360694+00:00', '--job-id', '4', '--pool', 'default_pool', '--raw', '--subdir', '/Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py', '--cfg-path', '/var/folders/jz/p2j8d5xx3lq5qbv4lwz8kg100000gn/T/tmpi1mz5vla', '--error-file', '/var/folders/jz/p2j8d5xx3lq5qbv4lwz8kg100000gn/T/tmp6rldlp48']
+[2021-04-29 11:48:59,205] {standard_task_runner.py:77} INFO - Job 4: Subtask print_date
+[2021-04-29 11:49:04,234] {logging_mixin.py:104} INFO - Running <TaskInstance: tutorial.print_date 2021-04-29T06:17:55.360694+00:00 [running]> on host Keshavs-MacBook-Pro.local
+[2021-04-29 11:49:09,259] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tutorial
+AIRFLOW_CTX_TASK_ID=print_date
+AIRFLOW_CTX_EXECUTION_DATE=2021-04-29T06:17:55.360694+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-04-29T06:17:55.360694+00:00
+[2021-04-29 11:49:09,261] {bash.py:135} INFO - Tmp dir root location: 
+ /var/folders/jz/p2j8d5xx3lq5qbv4lwz8kg100000gn/T
+[2021-04-29 11:49:09,262] {bash.py:158} INFO - Running command: date
+[2021-04-29 11:49:09,268] {bash.py:169} INFO - Output:
+[2021-04-29 11:49:09,272] {bash.py:173} INFO - Thu Apr 29 11:49:09 IST 2021
+[2021-04-29 11:49:09,272] {bash.py:177} INFO - Command exited with return code 0
+[2021-04-29 11:49:09,284] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=tutorial, task_id=print_date, execution_date=20210429T061755, start_date=20210429T061859, end_date=20210429T061909
+[2021-04-29 11:49:09,298] {taskinstance.py:1246} INFO - 2 downstream tasks scheduled from follow-on schedule check
+[2021-04-29 11:49:09,331] {local_task_job.py:146} INFO - Task exited with return code 0

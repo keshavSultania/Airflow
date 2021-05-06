@@ -1,0 +1,470 @@
+[2021-05-06 11:30:21,975] {scheduler_job.py:182} INFO - Started process (PID=97854) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:30:21,976] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:30:21,976] {logging_mixin.py:104} INFO - [2021-05-06 11:30:21,976] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:30:21,982] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:30:22,004] {logging_mixin.py:104} INFO - [2021-05-06 11:30:22,004] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:30:22,006] {logging_mixin.py:104} INFO - [2021-05-06 11:30:22,006] {dag.py:1843} INFO - Creating ORM DAG for tutorial_taskflow_api_etl_test_2_station
+[2021-05-06 11:30:22,008] {logging_mixin.py:104} INFO - [2021-05-06 11:30:22,008] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:30:22,015] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.040 seconds
+[2021-05-06 11:31:35,155] {scheduler_job.py:182} INFO - Started process (PID=97946) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:31:35,155] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:31:35,155] {logging_mixin.py:104} INFO - [2021-05-06 11:31:35,155] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:31:35,161] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:31:35,188] {logging_mixin.py:104} INFO - [2021-05-06 11:31:35,188] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:31:35,194] {logging_mixin.py:104} INFO - [2021-05-06 11:31:35,194] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:31:35,200] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.045 seconds
+[2021-05-06 11:32:17,243] {scheduler_job.py:182} INFO - Started process (PID=97995) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:32:17,243] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:32:17,243] {logging_mixin.py:104} INFO - [2021-05-06 11:32:17,243] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:32:17,249] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:32:17,271] {logging_mixin.py:104} INFO - [2021-05-06 11:32:17,271] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:32:17,276] {logging_mixin.py:104} INFO - [2021-05-06 11:32:17,276] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:32:17,304] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.062 seconds
+[2021-05-06 11:33:17,975] {scheduler_job.py:182} INFO - Started process (PID=98093) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:33:17,976] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:33:17,976] {logging_mixin.py:104} INFO - [2021-05-06 11:33:17,976] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:33:17,983] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:33:18,011] {logging_mixin.py:104} INFO - [2021-05-06 11:33:18,010] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:33:18,016] {logging_mixin.py:104} INFO - [2021-05-06 11:33:18,016] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:33:18,023] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.048 seconds
+[2021-05-06 11:34:35,300] {scheduler_job.py:182} INFO - Started process (PID=98200) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:34:35,301] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:34:35,301] {logging_mixin.py:104} INFO - [2021-05-06 11:34:35,301] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:34:35,311] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:34:35,343] {logging_mixin.py:104} INFO - [2021-05-06 11:34:35,343] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:34:35,350] {logging_mixin.py:104} INFO - [2021-05-06 11:34:35,349] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:34:35,356] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.056 seconds
+[2021-05-06 11:36:34,602] {scheduler_job.py:182} INFO - Started process (PID=98323) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:36:34,603] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:36:34,603] {logging_mixin.py:104} INFO - [2021-05-06 11:36:34,603] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:36:34,612] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:36:34,635] {logging_mixin.py:104} INFO - [2021-05-06 11:36:34,634] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:36:34,641] {logging_mixin.py:104} INFO - [2021-05-06 11:36:34,640] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:36:34,647] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.045 seconds
+[2021-05-06 11:38:38,999] {scheduler_job.py:182} INFO - Started process (PID=98440) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:38:39,000] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:38:39,001] {logging_mixin.py:104} INFO - [2021-05-06 11:38:39,001] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:38:39,009] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:38:39,033] {logging_mixin.py:104} INFO - [2021-05-06 11:38:39,033] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:38:39,038] {logging_mixin.py:104} INFO - [2021-05-06 11:38:39,038] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:38:39,044] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.045 seconds
+[2021-05-06 11:39:35,823] {scheduler_job.py:182} INFO - Started process (PID=98516) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:39:35,824] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:39:35,824] {logging_mixin.py:104} INFO - [2021-05-06 11:39:35,824] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:39:35,829] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:39:35,851] {logging_mixin.py:104} INFO - [2021-05-06 11:39:35,851] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:39:35,856] {logging_mixin.py:104} INFO - [2021-05-06 11:39:35,856] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:39:35,862] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.039 seconds
+[2021-05-06 11:40:47,108] {scheduler_job.py:182} INFO - Started process (PID=98618) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:40:47,117] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:40:47,118] {logging_mixin.py:104} INFO - [2021-05-06 11:40:47,118] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:40:47,147] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:40:47,175] {logging_mixin.py:104} INFO - [2021-05-06 11:40:47,175] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:40:47,180] {logging_mixin.py:104} INFO - [2021-05-06 11:40:47,180] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:40:47,209] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.102 seconds
+[2021-05-06 11:41:59,477] {scheduler_job.py:182} INFO - Started process (PID=98712) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:41:59,477] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:41:59,478] {logging_mixin.py:104} INFO - [2021-05-06 11:41:59,478] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:41:59,483] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:41:59,505] {logging_mixin.py:104} INFO - [2021-05-06 11:41:59,504] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:41:59,509] {logging_mixin.py:104} INFO - [2021-05-06 11:41:59,509] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:41:59,515] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.038 seconds
+[2021-05-06 11:43:12,351] {scheduler_job.py:182} INFO - Started process (PID=98808) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:43:12,352] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:43:12,353] {logging_mixin.py:104} INFO - [2021-05-06 11:43:12,353] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:43:12,360] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:43:12,384] {logging_mixin.py:104} INFO - [2021-05-06 11:43:12,384] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:43:12,389] {logging_mixin.py:104} INFO - [2021-05-06 11:43:12,389] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:43:12,394] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.043 seconds
+[2021-05-06 11:44:24,418] {scheduler_job.py:182} INFO - Started process (PID=98901) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:44:24,418] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:44:24,419] {logging_mixin.py:104} INFO - [2021-05-06 11:44:24,419] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:44:24,425] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:44:24,452] {logging_mixin.py:104} INFO - [2021-05-06 11:44:24,451] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:44:24,457] {logging_mixin.py:104} INFO - [2021-05-06 11:44:24,457] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:44:24,465] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.047 seconds
+[2021-05-06 11:46:29,229] {scheduler_job.py:182} INFO - Started process (PID=99021) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:46:29,231] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:46:29,232] {logging_mixin.py:104} INFO - [2021-05-06 11:46:29,232] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:46:29,241] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:46:29,266] {logging_mixin.py:104} INFO - [2021-05-06 11:46:29,266] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:46:29,270] {logging_mixin.py:104} INFO - [2021-05-06 11:46:29,270] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:46:29,276] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.047 seconds
+[2021-05-06 11:47:25,651] {scheduler_job.py:182} INFO - Started process (PID=99098) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:47:25,651] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:47:25,651] {logging_mixin.py:104} INFO - [2021-05-06 11:47:25,651] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:47:25,656] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:47:25,677] {logging_mixin.py:104} INFO - [2021-05-06 11:47:25,677] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:47:25,682] {logging_mixin.py:104} INFO - [2021-05-06 11:47:25,682] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:47:25,688] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.037 seconds
+[2021-05-06 11:48:23,815] {scheduler_job.py:182} INFO - Started process (PID=99176) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:48:23,815] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:48:23,816] {logging_mixin.py:104} INFO - [2021-05-06 11:48:23,816] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:48:23,821] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:48:23,841] {logging_mixin.py:104} INFO - [2021-05-06 11:48:23,841] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:48:23,846] {logging_mixin.py:104} INFO - [2021-05-06 11:48:23,846] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:48:23,852] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.037 seconds
+[2021-05-06 11:49:21,482] {scheduler_job.py:182} INFO - Started process (PID=99254) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:49:21,482] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:49:21,483] {logging_mixin.py:104} INFO - [2021-05-06 11:49:21,483] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:49:21,487] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:49:21,510] {logging_mixin.py:104} INFO - [2021-05-06 11:49:21,510] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:49:21,514] {logging_mixin.py:104} INFO - [2021-05-06 11:49:21,514] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:49:21,520] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.038 seconds
+[2021-05-06 11:50:19,813] {scheduler_job.py:182} INFO - Started process (PID=99340) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:50:19,813] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:50:19,814] {logging_mixin.py:104} INFO - [2021-05-06 11:50:19,814] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:50:19,818] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:50:19,840] {logging_mixin.py:104} INFO - [2021-05-06 11:50:19,840] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:50:19,844] {logging_mixin.py:104} INFO - [2021-05-06 11:50:19,844] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:50:19,850] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.037 seconds
+[2021-05-06 11:51:16,409] {scheduler_job.py:182} INFO - Started process (PID=99424) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:51:16,410] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:51:16,410] {logging_mixin.py:104} INFO - [2021-05-06 11:51:16,410] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:51:16,415] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:51:16,437] {logging_mixin.py:104} INFO - [2021-05-06 11:51:16,437] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:51:16,441] {logging_mixin.py:104} INFO - [2021-05-06 11:51:16,441] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:51:16,447] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.038 seconds
+[2021-05-06 11:52:20,569] {scheduler_job.py:182} INFO - Started process (PID=99505) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:52:20,570] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:52:20,570] {logging_mixin.py:104} INFO - [2021-05-06 11:52:20,570] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:52:20,575] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:52:20,596] {logging_mixin.py:104} INFO - [2021-05-06 11:52:20,596] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:52:20,600] {logging_mixin.py:104} INFO - [2021-05-06 11:52:20,600] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:52:20,606] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.037 seconds
+[2021-05-06 11:53:26,219] {scheduler_job.py:182} INFO - Started process (PID=99588) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:53:26,219] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:53:26,220] {logging_mixin.py:104} INFO - [2021-05-06 11:53:26,219] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:53:26,224] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:53:26,245] {logging_mixin.py:104} INFO - [2021-05-06 11:53:26,244] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:53:26,249] {logging_mixin.py:104} INFO - [2021-05-06 11:53:26,249] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:53:26,255] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.036 seconds
+[2021-05-06 11:54:24,174] {scheduler_job.py:182} INFO - Started process (PID=99669) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:54:24,174] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:54:24,175] {logging_mixin.py:104} INFO - [2021-05-06 11:54:24,175] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:54:24,180] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:54:24,200] {logging_mixin.py:104} INFO - [2021-05-06 11:54:24,199] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:54:24,205] {logging_mixin.py:104} INFO - [2021-05-06 11:54:24,204] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:54:24,211] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.037 seconds
+[2021-05-06 11:55:20,871] {scheduler_job.py:182} INFO - Started process (PID=99747) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:55:20,871] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:55:20,872] {logging_mixin.py:104} INFO - [2021-05-06 11:55:20,872] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:55:20,878] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:55:20,905] {logging_mixin.py:104} INFO - [2021-05-06 11:55:20,905] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:55:20,911] {logging_mixin.py:104} INFO - [2021-05-06 11:55:20,911] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:55:20,917] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.047 seconds
+[2021-05-06 11:56:31,699] {scheduler_job.py:182} INFO - Started process (PID=99840) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:56:31,701] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:56:31,701] {logging_mixin.py:104} INFO - [2021-05-06 11:56:31,701] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:56:31,710] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:56:31,738] {logging_mixin.py:104} INFO - [2021-05-06 11:56:31,738] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:56:31,745] {logging_mixin.py:104} INFO - [2021-05-06 11:56:31,745] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:56:31,751] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.052 seconds
+[2021-05-06 11:58:37,191] {scheduler_job.py:182} INFO - Started process (PID=99964) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:58:37,192] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:58:37,192] {logging_mixin.py:104} INFO - [2021-05-06 11:58:37,192] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:58:37,200] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:58:37,228] {logging_mixin.py:104} INFO - [2021-05-06 11:58:37,228] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:58:37,234] {logging_mixin.py:104} INFO - [2021-05-06 11:58:37,234] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:58:37,241] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.051 seconds
+[2021-05-06 11:59:45,784] {scheduler_job.py:182} INFO - Started process (PID=182) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:59:45,784] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 11:59:45,785] {logging_mixin.py:104} INFO - [2021-05-06 11:59:45,784] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:59:45,789] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 11:59:45,811] {logging_mixin.py:104} INFO - [2021-05-06 11:59:45,810] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 11:59:45,815] {logging_mixin.py:104} INFO - [2021-05-06 11:59:45,815] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 11:59:45,820] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.037 seconds
+[2021-05-06 12:00:46,482] {scheduler_job.py:182} INFO - Started process (PID=353) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:00:46,482] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:00:46,482] {logging_mixin.py:104} INFO - [2021-05-06 12:00:46,482] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:00:46,487] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:00:46,507] {logging_mixin.py:104} INFO - [2021-05-06 12:00:46,507] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:00:46,512] {logging_mixin.py:104} INFO - [2021-05-06 12:00:46,512] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:00:46,520] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.039 seconds
+[2021-05-06 12:01:42,841] {scheduler_job.py:182} INFO - Started process (PID=568) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:01:42,841] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:01:42,842] {logging_mixin.py:104} INFO - [2021-05-06 12:01:42,842] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:01:42,848] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:01:42,872] {logging_mixin.py:104} INFO - [2021-05-06 12:01:42,872] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:01:42,877] {logging_mixin.py:104} INFO - [2021-05-06 12:01:42,877] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:01:42,882] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.041 seconds
+[2021-05-06 12:02:42,571] {scheduler_job.py:182} INFO - Started process (PID=678) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:02:42,571] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:02:42,572] {logging_mixin.py:104} INFO - [2021-05-06 12:02:42,572] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:02:42,577] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:02:42,599] {logging_mixin.py:104} INFO - [2021-05-06 12:02:42,599] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:02:42,604] {logging_mixin.py:104} INFO - [2021-05-06 12:02:42,603] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:02:42,609] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.039 seconds
+[2021-05-06 12:04:45,568] {scheduler_job.py:182} INFO - Started process (PID=829) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:04:45,568] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:04:45,569] {logging_mixin.py:104} INFO - [2021-05-06 12:04:45,568] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:04:45,577] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:04:45,600] {logging_mixin.py:104} INFO - [2021-05-06 12:04:45,600] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:04:45,605] {logging_mixin.py:104} INFO - [2021-05-06 12:04:45,605] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:04:45,610] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.043 seconds
+[2021-05-06 12:05:52,196] {scheduler_job.py:182} INFO - Started process (PID=921) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:05:52,198] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:05:52,198] {logging_mixin.py:104} INFO - [2021-05-06 12:05:52,198] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:05:52,207] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:05:52,235] {logging_mixin.py:104} INFO - [2021-05-06 12:05:52,234] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:05:52,240] {logging_mixin.py:104} INFO - [2021-05-06 12:05:52,240] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:05:52,247] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.051 seconds
+[2021-05-06 12:08:11,745] {scheduler_job.py:182} INFO - Started process (PID=1093) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:08:11,763] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:08:11,764] {logging_mixin.py:104} INFO - [2021-05-06 12:08:11,764] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:08:11,774] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:08:11,822] {logging_mixin.py:104} INFO - [2021-05-06 12:08:11,822] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:08:11,828] {logging_mixin.py:104} INFO - [2021-05-06 12:08:11,828] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:08:11,834] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.090 seconds
+[2021-05-06 12:09:20,079] {scheduler_job.py:182} INFO - Started process (PID=1191) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:09:20,079] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:09:20,080] {logging_mixin.py:104} INFO - [2021-05-06 12:09:20,080] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:09:20,088] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:09:20,112] {logging_mixin.py:104} INFO - [2021-05-06 12:09:20,112] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:09:20,117] {logging_mixin.py:104} INFO - [2021-05-06 12:09:20,117] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:09:20,124] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.046 seconds
+[2021-05-06 12:11:14,387] {scheduler_job.py:182} INFO - Started process (PID=1307) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:11:14,389] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:11:14,389] {logging_mixin.py:104} INFO - [2021-05-06 12:11:14,389] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:11:14,398] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:11:14,424] {logging_mixin.py:104} INFO - [2021-05-06 12:11:14,424] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:11:14,430] {logging_mixin.py:104} INFO - [2021-05-06 12:11:14,430] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:11:14,436] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.049 seconds
+[2021-05-06 12:13:12,884] {scheduler_job.py:182} INFO - Started process (PID=1407) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:13:12,885] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:13:12,886] {logging_mixin.py:104} INFO - [2021-05-06 12:13:12,886] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:13:12,894] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:13:12,922] {logging_mixin.py:104} INFO - [2021-05-06 12:13:12,922] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:13:12,928] {logging_mixin.py:104} INFO - [2021-05-06 12:13:12,928] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:13:12,934] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.051 seconds
+[2021-05-06 12:14:21,131] {scheduler_job.py:182} INFO - Started process (PID=1496) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:14:21,131] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:14:21,131] {logging_mixin.py:104} INFO - [2021-05-06 12:14:21,131] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:14:21,136] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:14:21,157] {logging_mixin.py:104} INFO - [2021-05-06 12:14:21,157] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:14:21,161] {logging_mixin.py:104} INFO - [2021-05-06 12:14:21,161] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:14:21,167] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.036 seconds
+[2021-05-06 12:15:08,484] {scheduler_job.py:182} INFO - Started process (PID=1573) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:15:08,484] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:15:08,485] {logging_mixin.py:104} INFO - [2021-05-06 12:15:08,485] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:15:08,489] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:15:08,510] {logging_mixin.py:104} INFO - [2021-05-06 12:15:08,510] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:15:08,514] {logging_mixin.py:104} INFO - [2021-05-06 12:15:08,514] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:15:08,520] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.036 seconds
+[2021-05-06 12:16:06,990] {scheduler_job.py:182} INFO - Started process (PID=1647) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:16:06,991] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:16:06,992] {logging_mixin.py:104} INFO - [2021-05-06 12:16:06,991] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:16:06,999] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:16:07,021] {logging_mixin.py:104} INFO - [2021-05-06 12:16:07,021] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:16:07,026] {logging_mixin.py:104} INFO - [2021-05-06 12:16:07,026] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:16:07,031] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.041 seconds
+[2021-05-06 12:17:17,685] {scheduler_job.py:182} INFO - Started process (PID=1745) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:17:17,686] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:17:17,686] {logging_mixin.py:104} INFO - [2021-05-06 12:17:17,686] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:17:17,691] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:17:17,713] {logging_mixin.py:104} INFO - [2021-05-06 12:17:17,713] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:17:17,718] {logging_mixin.py:104} INFO - [2021-05-06 12:17:17,718] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:17:17,724] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.039 seconds
+[2021-05-06 12:18:27,577] {scheduler_job.py:182} INFO - Started process (PID=1832) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:18:27,578] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:18:27,578] {logging_mixin.py:104} INFO - [2021-05-06 12:18:27,578] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:18:27,584] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:18:27,610] {logging_mixin.py:104} INFO - [2021-05-06 12:18:27,610] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:18:27,616] {logging_mixin.py:104} INFO - [2021-05-06 12:18:27,616] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:18:27,622] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.045 seconds
+[2021-05-06 12:19:40,253] {scheduler_job.py:182} INFO - Started process (PID=1923) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:19:40,253] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:19:40,253] {logging_mixin.py:104} INFO - [2021-05-06 12:19:40,253] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:19:40,259] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:19:40,285] {logging_mixin.py:104} INFO - [2021-05-06 12:19:40,285] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:19:40,290] {logging_mixin.py:104} INFO - [2021-05-06 12:19:40,290] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:19:40,296] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.044 seconds
+[2021-05-06 12:20:54,267] {scheduler_job.py:182} INFO - Started process (PID=2014) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:20:54,268] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:20:54,268] {logging_mixin.py:104} INFO - [2021-05-06 12:20:54,268] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:20:54,274] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:20:54,299] {logging_mixin.py:104} INFO - [2021-05-06 12:20:54,299] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:20:54,305] {logging_mixin.py:104} INFO - [2021-05-06 12:20:54,305] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:20:54,312] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.045 seconds
+[2021-05-06 12:22:05,384] {scheduler_job.py:182} INFO - Started process (PID=2108) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:22:05,385] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:22:05,385] {logging_mixin.py:104} INFO - [2021-05-06 12:22:05,385] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:22:05,391] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:22:05,417] {logging_mixin.py:104} INFO - [2021-05-06 12:22:05,417] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:22:05,422] {logging_mixin.py:104} INFO - [2021-05-06 12:22:05,422] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:22:05,429] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.045 seconds
+[2021-05-06 12:23:10,377] {scheduler_job.py:182} INFO - Started process (PID=2194) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:23:10,378] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:23:10,378] {logging_mixin.py:104} INFO - [2021-05-06 12:23:10,378] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:23:10,383] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:23:10,407] {logging_mixin.py:104} INFO - [2021-05-06 12:23:10,406] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:23:10,411] {logging_mixin.py:104} INFO - [2021-05-06 12:23:10,411] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:23:10,416] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.039 seconds
+[2021-05-06 12:24:01,504] {scheduler_job.py:182} INFO - Started process (PID=2264) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:24:01,504] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:24:01,504] {logging_mixin.py:104} INFO - [2021-05-06 12:24:01,504] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:24:01,509] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:24:01,530] {logging_mixin.py:104} INFO - [2021-05-06 12:24:01,530] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:24:01,535] {logging_mixin.py:104} INFO - [2021-05-06 12:24:01,534] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:24:01,540] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.036 seconds
+[2021-05-06 12:25:11,908] {scheduler_job.py:182} INFO - Started process (PID=2359) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:25:11,908] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:25:11,909] {logging_mixin.py:104} INFO - [2021-05-06 12:25:11,909] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:25:11,915] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:25:11,941] {logging_mixin.py:104} INFO - [2021-05-06 12:25:11,941] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:25:11,947] {logging_mixin.py:104} INFO - [2021-05-06 12:25:11,947] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:25:11,954] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.046 seconds
+[2021-05-06 12:26:08,691] {scheduler_job.py:182} INFO - Started process (PID=2432) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:26:08,691] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:26:08,691] {logging_mixin.py:104} INFO - [2021-05-06 12:26:08,691] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:26:08,698] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:26:08,724] {logging_mixin.py:104} INFO - [2021-05-06 12:26:08,724] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:26:08,730] {logging_mixin.py:104} INFO - [2021-05-06 12:26:08,730] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:26:08,736] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.046 seconds
+[2021-05-06 12:27:22,155] {scheduler_job.py:182} INFO - Started process (PID=2528) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:27:22,155] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:27:22,156] {logging_mixin.py:104} INFO - [2021-05-06 12:27:22,156] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:27:22,161] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:27:22,187] {logging_mixin.py:104} INFO - [2021-05-06 12:27:22,187] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:27:22,193] {logging_mixin.py:104} INFO - [2021-05-06 12:27:22,193] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:27:22,199] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.044 seconds
+[2021-05-06 12:28:34,822] {scheduler_job.py:182} INFO - Started process (PID=2621) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:28:34,822] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:28:34,823] {logging_mixin.py:104} INFO - [2021-05-06 12:28:34,823] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:28:34,828] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:28:34,854] {logging_mixin.py:104} INFO - [2021-05-06 12:28:34,854] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:28:34,860] {logging_mixin.py:104} INFO - [2021-05-06 12:28:34,860] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:28:34,866] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.045 seconds
+[2021-05-06 12:29:51,008] {scheduler_job.py:182} INFO - Started process (PID=2716) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:29:51,008] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:29:51,009] {logging_mixin.py:104} INFO - [2021-05-06 12:29:51,009] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:29:51,016] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:29:51,044] {logging_mixin.py:104} INFO - [2021-05-06 12:29:51,044] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:29:51,050] {logging_mixin.py:104} INFO - [2021-05-06 12:29:51,050] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:29:51,056] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.049 seconds
+[2021-05-06 12:31:04,207] {scheduler_job.py:182} INFO - Started process (PID=2818) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:31:04,207] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:31:04,207] {logging_mixin.py:104} INFO - [2021-05-06 12:31:04,207] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:31:04,212] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:31:04,235] {logging_mixin.py:104} INFO - [2021-05-06 12:31:04,234] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:31:04,239] {logging_mixin.py:104} INFO - [2021-05-06 12:31:04,239] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:31:04,245] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.039 seconds
+[2021-05-06 12:32:16,685] {scheduler_job.py:182} INFO - Started process (PID=2912) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:32:16,685] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:32:16,685] {logging_mixin.py:104} INFO - [2021-05-06 12:32:16,685] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:32:16,690] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:32:16,712] {logging_mixin.py:104} INFO - [2021-05-06 12:32:16,711] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:32:16,716] {logging_mixin.py:104} INFO - [2021-05-06 12:32:16,716] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:32:16,722] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.038 seconds
+[2021-05-06 12:33:30,379] {scheduler_job.py:182} INFO - Started process (PID=3009) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:33:30,379] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:33:30,379] {logging_mixin.py:104} INFO - [2021-05-06 12:33:30,379] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:33:30,385] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:33:30,409] {logging_mixin.py:104} INFO - [2021-05-06 12:33:30,409] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:33:30,414] {logging_mixin.py:104} INFO - [2021-05-06 12:33:30,414] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:33:30,419] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.041 seconds
+[2021-05-06 12:34:44,226] {scheduler_job.py:182} INFO - Started process (PID=3101) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:34:44,227] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:34:44,227] {logging_mixin.py:104} INFO - [2021-05-06 12:34:44,227] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:34:44,233] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:34:44,260] {logging_mixin.py:104} INFO - [2021-05-06 12:34:44,260] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:34:44,266] {logging_mixin.py:104} INFO - [2021-05-06 12:34:44,266] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:34:44,272] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.046 seconds
+[2021-05-06 12:35:44,069] {scheduler_job.py:182} INFO - Started process (PID=3172) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:35:44,069] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:35:44,070] {logging_mixin.py:104} INFO - [2021-05-06 12:35:44,070] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:35:44,076] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:35:44,102] {logging_mixin.py:104} INFO - [2021-05-06 12:35:44,102] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:35:44,107] {logging_mixin.py:104} INFO - [2021-05-06 12:35:44,107] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:35:44,114] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.046 seconds
+[2021-05-06 12:36:48,236] {scheduler_job.py:182} INFO - Started process (PID=3261) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:36:48,236] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:36:48,236] {logging_mixin.py:104} INFO - [2021-05-06 12:36:48,236] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:36:48,243] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:36:48,270] {logging_mixin.py:104} INFO - [2021-05-06 12:36:48,270] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:36:48,276] {logging_mixin.py:104} INFO - [2021-05-06 12:36:48,276] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:36:48,283] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.048 seconds
+[2021-05-06 12:37:57,019] {scheduler_job.py:182} INFO - Started process (PID=3346) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:37:57,019] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:37:57,019] {logging_mixin.py:104} INFO - [2021-05-06 12:37:57,019] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:37:57,025] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:37:57,049] {logging_mixin.py:104} INFO - [2021-05-06 12:37:57,049] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:37:57,054] {logging_mixin.py:104} INFO - [2021-05-06 12:37:57,053] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:37:57,059] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.040 seconds
+[2021-05-06 12:39:10,978] {scheduler_job.py:182} INFO - Started process (PID=3442) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:39:10,978] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:39:10,979] {logging_mixin.py:104} INFO - [2021-05-06 12:39:10,979] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:39:10,985] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:39:11,014] {logging_mixin.py:104} INFO - [2021-05-06 12:39:11,014] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:39:11,020] {logging_mixin.py:104} INFO - [2021-05-06 12:39:11,019] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:39:11,026] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.048 seconds
+[2021-05-06 12:40:33,251] {scheduler_job.py:182} INFO - Started process (PID=3541) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:40:33,251] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:40:33,252] {logging_mixin.py:104} INFO - [2021-05-06 12:40:33,252] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:40:33,258] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:40:33,286] {logging_mixin.py:104} INFO - [2021-05-06 12:40:33,286] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:40:33,292] {logging_mixin.py:104} INFO - [2021-05-06 12:40:33,292] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:40:33,298] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.048 seconds
+[2021-05-06 12:41:49,631] {scheduler_job.py:182} INFO - Started process (PID=3890) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:41:49,632] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:41:49,633] {logging_mixin.py:104} INFO - [2021-05-06 12:41:49,632] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:41:49,640] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:41:49,664] {logging_mixin.py:104} INFO - [2021-05-06 12:41:49,664] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:41:49,670] {logging_mixin.py:104} INFO - [2021-05-06 12:41:49,669] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:41:49,675] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.044 seconds
+[2021-05-06 12:43:03,563] {scheduler_job.py:182} INFO - Started process (PID=3989) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:43:03,564] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:43:03,565] {logging_mixin.py:104} INFO - [2021-05-06 12:43:03,565] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:43:03,572] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:43:03,605] {logging_mixin.py:104} INFO - [2021-05-06 12:43:03,605] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:43:03,614] {logging_mixin.py:104} INFO - [2021-05-06 12:43:03,614] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:43:03,623] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.060 seconds
+[2021-05-06 12:44:17,272] {scheduler_job.py:182} INFO - Started process (PID=4089) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:44:17,272] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:44:17,273] {logging_mixin.py:104} INFO - [2021-05-06 12:44:17,273] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:44:17,279] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:44:17,305] {logging_mixin.py:104} INFO - [2021-05-06 12:44:17,305] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:44:17,310] {logging_mixin.py:104} INFO - [2021-05-06 12:44:17,310] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:44:17,316] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.045 seconds
+[2021-05-06 12:45:29,233] {scheduler_job.py:182} INFO - Started process (PID=4179) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:45:29,234] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:45:29,234] {logging_mixin.py:104} INFO - [2021-05-06 12:45:29,234] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:45:29,239] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:45:29,260] {logging_mixin.py:104} INFO - [2021-05-06 12:45:29,260] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:45:29,265] {logging_mixin.py:104} INFO - [2021-05-06 12:45:29,265] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:45:29,271] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.038 seconds
+[2021-05-06 12:46:34,144] {scheduler_job.py:182} INFO - Started process (PID=4262) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:46:34,145] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:46:34,146] {logging_mixin.py:104} INFO - [2021-05-06 12:46:34,146] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:46:34,153] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:46:34,176] {logging_mixin.py:104} INFO - [2021-05-06 12:46:34,176] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:46:34,181] {logging_mixin.py:104} INFO - [2021-05-06 12:46:34,181] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:46:34,186] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.043 seconds
+[2021-05-06 12:47:43,290] {scheduler_job.py:182} INFO - Started process (PID=4365) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:47:43,291] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:47:43,291] {logging_mixin.py:104} INFO - [2021-05-06 12:47:43,291] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:47:43,297] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:47:43,318] {logging_mixin.py:104} INFO - [2021-05-06 12:47:43,318] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:47:43,323] {logging_mixin.py:104} INFO - [2021-05-06 12:47:43,323] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:47:43,328] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.038 seconds
+[2021-05-06 12:48:57,303] {scheduler_job.py:182} INFO - Started process (PID=4460) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:48:57,304] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:48:57,304] {logging_mixin.py:104} INFO - [2021-05-06 12:48:57,304] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:48:57,310] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:48:57,338] {logging_mixin.py:104} INFO - [2021-05-06 12:48:57,337] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:48:57,347] {logging_mixin.py:104} INFO - [2021-05-06 12:48:57,347] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:48:57,352] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.050 seconds
+[2021-05-06 12:50:11,394] {scheduler_job.py:182} INFO - Started process (PID=4571) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:50:11,395] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:50:11,396] {logging_mixin.py:104} INFO - [2021-05-06 12:50:11,396] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:50:11,402] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:50:11,424] {logging_mixin.py:104} INFO - [2021-05-06 12:50:11,424] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:50:11,429] {logging_mixin.py:104} INFO - [2021-05-06 12:50:11,429] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:50:11,434] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.040 seconds
+[2021-05-06 12:51:26,101] {scheduler_job.py:182} INFO - Started process (PID=4859) to work on /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:51:26,101] {scheduler_job.py:629} INFO - Processing file /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py for tasks to queue
+[2021-05-06 12:51:26,102] {logging_mixin.py:104} INFO - [2021-05-06 12:51:26,102] {dagbag.py:451} INFO - Filling up the DagBag from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:51:26,114] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_test_2_station']) retrieved from /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py
+[2021-05-06 12:51:26,155] {logging_mixin.py:104} INFO - [2021-05-06 12:51:26,155] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-06 12:51:26,166] {logging_mixin.py:104} INFO - [2021-05-06 12:51:26,166] {dag.py:2280} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_test_2_station to None
+[2021-05-06 12:51:26,175] {scheduler_job.py:190} INFO - Processing /Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/stations_1.py took 0.075 seconds

@@ -1,0 +1,41 @@
+[2021-04-29 17:20:52,398] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: tutorial_taskflow_api_etl_test.getKiwiStationData 2021-04-29T11:50:07.138062+00:00 [queued]>
+[2021-04-29 17:20:52,402] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: tutorial_taskflow_api_etl_test.getKiwiStationData 2021-04-29T11:50:07.138062+00:00 [queued]>
+[2021-04-29 17:20:52,402] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-04-29 17:20:52,402] {taskinstance.py:1069} INFO - Starting attempt 1 of 1
+[2021-04-29 17:20:52,402] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-04-29 17:20:52,407] {taskinstance.py:1089} INFO - Executing <Task(_PythonDecoratedOperator): getKiwiStationData> on 2021-04-29T11:50:07.138062+00:00
+[2021-04-29 17:20:52,408] {standard_task_runner.py:52} INFO - Started process 69858 to run task
+[2021-04-29 17:20:52,413] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial_taskflow_api_etl_test', 'getKiwiStationData', '2021-04-29T11:50:07.138062+00:00', '--job-id', '40', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/simple.py', '--cfg-path', '/var/folders/jz/p2j8d5xx3lq5qbv4lwz8kg100000gn/T/tmpba9_glih', '--error-file', '/var/folders/jz/p2j8d5xx3lq5qbv4lwz8kg100000gn/T/tmpvuasf6j1']
+[2021-04-29 17:20:52,414] {standard_task_runner.py:77} INFO - Job 40: Subtask getKiwiStationData
+[2021-04-29 17:20:57,437] {logging_mixin.py:104} INFO - Running <TaskInstance: tutorial_taskflow_api_etl_test.getKiwiStationData 2021-04-29T11:50:07.138062+00:00 [running]> on host Keshavs-MacBook-Pro.local
+[2021-04-29 17:21:02,463] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tutorial_taskflow_api_etl_test
+AIRFLOW_CTX_TASK_ID=getKiwiStationData
+AIRFLOW_CTX_EXECUTION_DATE=2021-04-29T11:50:07.138062+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-04-29T11:50:07.138062+00:00
+[2021-04-29 17:21:06,403] {taskinstance.py:1482} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/Users/keshavsultania/Documents/airflow-tutorial/demo1/myenv/lib/python3.8/site-packages/airflow/operators/python.py", line 233, in execute
+    return_value = self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/keshavsultania/Documents/airflow-tutorial/demo1/dags/simple.py", line 77, in getKiwiStationData
+    merged_list = json.load(f)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2021-04-29 17:21:06,407] {taskinstance.py:1525} INFO - Marking task as FAILED. dag_id=tutorial_taskflow_api_etl_test, task_id=getKiwiStationData, execution_date=20210429T115007, start_date=20210429T115052, end_date=20210429T115106
+[2021-04-29 17:21:06,446] {local_task_job.py:146} INFO - Task exited with return code 1
